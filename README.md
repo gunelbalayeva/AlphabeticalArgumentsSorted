@@ -1,2 +1,2 @@
-String task: input: hello world
-            output: olleh dlrow
+String task: input: helloWorld
+            output: ollehdlroW
